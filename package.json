@@ -2,7 +2,7 @@
   "author": "Furkan Emiroglu",
   "name": "com.femiroglu.raymarchedblob",
   "displayName": "Blob Effect via Raymarch Showcase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2021.3",
   "description": "Blob character implemented with Raymarching technique. Just a showcase.",
   "repository": {
