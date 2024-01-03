@@ -7,10 +7,10 @@
   "description": "Blob character implemented with Raymarching technique. Just a showcase.",
   "repository": {
     "type": "git",
-    "url": "github:furkanemiroglu/reponame-lowcase"
+    "url": "github:furkanemiroglu/raymarched-blob-fx"
   },
-  "documentationUrl": "https://github.com/FurkanEmiroglu/reponame#readme",
-  "changelogUrl": "https://github.com/FurkanEmiroglu/reponame#readme",
-  "licensesUrl": "https://github.com/FurkanEmiroglu/reponame#readme",
+  "documentationUrl": "https://github.com/FurkanEmiroglu/raymarched-blob-fx#readme",
+  "changelogUrl": "https://github.com/FurkanEmiroglu/raymarched-blob-fx#readme",
+  "licensesUrl": "https://github.com/FurkanEmiroglu/raymarched-blob-fx#readme",
   "dependencies": {}
 }
